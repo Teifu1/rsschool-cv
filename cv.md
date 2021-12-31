@@ -2,7 +2,7 @@
 ## **Contacts:** ##
 * Phone: +375445859765
 * E-mail: johnny-d@tut.by
-* GitHub:[https://github.com/Teifu1]
+* [GitHub:](https://github.com/Teifu1)
 
 ## **About me** ##
 
